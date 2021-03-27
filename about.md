@@ -4,4 +4,4 @@ layout: page
 permalink: /about
 ---
 
-Lena Petrova ....
+![Picture 1](holder.js/300x300?auto=yes)
