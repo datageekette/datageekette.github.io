@@ -3,7 +3,7 @@ layout: page
 title: about
 permalink: /about
 ---
-<img src="images/about-2.jpg" height="400" width="300">
+<img src="images/about-2.jpg" width="300">
 
 Lena Petrova is a Russian-born dancer, martial artist and model based in Berlin.
 
