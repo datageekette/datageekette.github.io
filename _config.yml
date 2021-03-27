@@ -2,7 +2,7 @@
 title: Lena Petrova
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Lena is a dancer, martial artist and model based in Berlin.
+  Dancer, performer, martial artist and model based in Berlin.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lenapetrova.com" # the base hostname & protocol for your site
 instagram_username: lenapetrova__
