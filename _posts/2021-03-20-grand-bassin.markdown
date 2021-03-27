@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GRAND BASSIN"
+title:  "GRAND BASSIN @sample.cm"
 preview: holder.js/300x300?auto=yes
 ---
 
