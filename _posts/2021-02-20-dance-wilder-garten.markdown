@@ -3,12 +3,13 @@ layout: post
 title:  "VIDEO:ENTANGLED"
 preview: https://c.radikal.ru/c34/2103/3b/fad1bb2c0678.png
 ---
+2020 - Berlin
 
 <!-- <img src="https://d.radikal.ru/d15/2103/3c/23c4eadf6bbft.jpg"> -->
 <img src="https://c.radikal.ru/c20/2103/4b/2bd59106a782t.jpg">
 <img src="https://d.radikal.ru/d21/2103/07/be28753f451dt.jpg">
 
-Performer for [Wilder Garten Collective](https://www.wildercommunity.com/), Berlin January 2020.
+Performer for [Wilder Garten Collective](https://www.wildercommunity.com/).
 
 “Entagled” for the Series of Synaesthetic Sessions.
 

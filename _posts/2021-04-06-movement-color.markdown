@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "PHOTO:MOVE WITH COLOR"
+title:  "MOVE WITH COLOR"
 preview: https://b.radikal.ru/b32/2104/61/bc149addcc5d.jpg
 ---
-Collaboration with talented [Anna Wyszomierska](https://annawyszomierska.eu/)
+2021 - Berlin
+
+Exploration of movement with talented [Anna Wyszomierska](https://annawyszomierska.eu/)
+
 <img src="https://d.radikal.ru/d14/2104/56/56500a4b8cbe.jpg">
 
 <img src="https://d.radikal.ru/d25/2104/8d/21fb4c27ef88t.jpg">
