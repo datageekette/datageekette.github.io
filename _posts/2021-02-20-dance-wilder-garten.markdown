@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ENTANGLED @wilder.garten"
+title:  "VIDEO:ENTANGLED"
 preview: https://c.radikal.ru/c34/2103/3b/fad1bb2c0678.png
 ---
 
@@ -8,9 +8,9 @@ preview: https://c.radikal.ru/c34/2103/3b/fad1bb2c0678.png
 <img src="https://c.radikal.ru/c20/2103/4b/2bd59106a782t.jpg">
 <img src="https://d.radikal.ru/d21/2103/07/be28753f451dt.jpg">
 
-Performer for [Wilder Garten Collective](https://www.wildercommunity.com/), Berlin January 2020
+Performer for [Wilder Garten Collective](https://www.wildercommunity.com/), Berlin January 2020.
 
-“Entagled” for the Series of Synaesthetic Sessions
+“Entagled” for the Series of Synaesthetic Sessions.
 
 An exploration of human connection, feelings of insecurites, fear, limitations that we share, through contact improvisation dance. In collaboration with visual and interactive artist Ralph Lagoi and music artists Alan Nguyen and IASE.
 
