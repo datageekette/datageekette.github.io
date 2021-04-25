@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MOVE WITH COLOR"
-preview: https://b.radikal.ru/b32/2104/61/bc149addcc5d.jpg
+preview: https://d.radikal.ru/d03/2104/fb/f1807c53bd93.jpg
 ---
 2021 - Berlin
 
