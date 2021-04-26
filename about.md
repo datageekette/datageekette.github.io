@@ -5,11 +5,9 @@ permalink: /about
 ---
 <img src="images/about.jpg" width="300">
 
-Lena Petrova is a Russian-born dancer, performer, martial artist and model based in Berlin.
+Lena Petrova is a Russian-born contemporary and shuffle dancer, performer, martial artist and model based in Berlin.
 
-Her main focus of work are in connecting physical and emotional bodies, moving from trauma to power through storytelling, and exploring the authentic "self".
-
-She is a female empowerment activist.
+Her main focus of work are in connecting physical and emotional bodies and exploring the authentic self. She is a female empowerment activist, a teacher and a founder of shuffle.house.
 
 _____
 
