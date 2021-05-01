@@ -3,11 +3,14 @@ layout: page
 title: about
 permalink: /about
 ---
-<img src="images/about.jpg" width="300">
+<!-- <img src="images/about.jpg" width="300"> -->
 
-Lena Petrova is a Russian-born contemporary and shuffle dancer, performer, martial artist and model based in Berlin.
+Lena Petrova is a Russian-born *contemporary and shuffle dancer, teacher, performer, martial artist* and model based in Berlin.
 
-Her main focus of work are in connecting physical and emotional bodies and exploring the authentic self. She is a female empowerment activist, a teacher and a founder of shuffle.house.
+<b>Model profile</b>
+- Petite, height 156cm
+- W63cm, H92cm, B87cm
+- Fashion, portrait, body & movememnt, health & sports
 
 _____
 
@@ -15,8 +18,8 @@ _____
 
 Dancing student at
 [danceworks Berlin](https://www.danceworks.berlin/) Sep 2020 - present
-- Ballet, Repertoire
-- Contemporary, Modern (Lemon), Jazz (classical, Fossi)
+- Ballet
+- Contemporary: Modern (Lemon), Jazz (classical, Fossi)
 
 
 Founder & Shuffle Dance Teacher
@@ -24,13 +27,12 @@ Founder & Shuffle Dance Teacher
 - Foot work, balance
 - Choreographing
 
-Classes “Personal Narration” by Jannis Polyzos Spring 2020 - Berlin, Germany
+“Personal Narration” by Jannis Polyzos Spring 2020 - Berlin, Germany
 - Physical training
 - Improvisation and Movement Research
 
 
-Butoh Dancing Workshop by Juju Arishina Jan 2020 - Paris, France
-January 31st
+Butoh Dancing with Juju Arishina Jan 2020 - Paris, France
 - Basic training of Butoh
 - Walking, Improvisation
 - Study of facial movement
