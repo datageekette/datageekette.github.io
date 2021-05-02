@@ -1,6 +1,6 @@
 # Site settings
 title: Lena Petrova
-# email: your-email@domain.com
+email: hello.lenapetrova@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Dancer, model, performer, martial artist and teacher based in Berlin.
 baseurl: "" # the subpath of your site, e.g. /blog

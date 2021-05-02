@@ -1,20 +1,21 @@
 ---
 layout: page
-title: about
-permalink: /about
+title: profile
+permalink: /profile
 ---
-<!-- <img src="images/about.jpg" width="300"> -->
+<img src="https://b.radikal.ru/b15/2105/42/57a6527b2e55t.jpg">
 
-Lena Petrova is a Russian-born *contemporary and shuffle dancer, teacher, performer, martial artist* and model based in Berlin.
+Lena Petrova is a Russian-born *contemporary and shuffle dancer, teacher, performer, martial artist and model* based in Berlin.
 
-<b>Model profile</b>
+### modeling
+
 - Petite, height 156cm
-- W63cm, H92cm, B87cm
+- B-87cm, W-63cm, H-92cm
 - Fashion, portrait, body & movememnt, health & sports
 
 _____
 
-## CV
+### dancing
 
 Dancing student at
 [danceworks Berlin](https://www.danceworks.berlin/) Sep 2020 - present
