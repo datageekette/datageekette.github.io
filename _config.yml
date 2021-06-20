@@ -2,10 +2,11 @@
 title: Lena Petrova
 email: hello.lenapetrova@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Dancer, model, performer, martial artist and teacher based in Berlin.
+  Contemporary dancer & performer, body model, martial artist and dance teacher.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lenapetrova.com" # the base hostname & protocol for your site
 instagram_username: lenapetrova__
+email: hello.lenapetrova@gmail.com
 
 # Build settings
 markdown: kramdown
