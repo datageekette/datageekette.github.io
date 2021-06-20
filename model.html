@@ -3,14 +3,14 @@ layout: page
 category: model
 permalink: /model
 ---
-<h3>profile</h3> 
+
 <ul>
 <li>Fashion, portrait, body & movement</li>
 <li>Well-being, dance, martials arts, fitness, sports, yoga</li>
 <li>Category "petite" (height 156cm)</li> 
 </ul>
 
-<br>
+<p><i>Detailed model profile is available on demand.</i></p>
 
 {% assign category = page.category | default: page.category %}
 {% for post in site.categories[category] %}
@@ -26,6 +26,4 @@ permalink: /model
     {% cycle 'end row' : '', '', '</div>' %}
     {% endfor %}
     {% cycle 'end row' : '', '</div>', '</div>' %}
-<br>
-<p><i>Detailed model profile description is available on demand.</i></p>
 
