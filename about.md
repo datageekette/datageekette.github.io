@@ -6,12 +6,11 @@ permalink: /about
 <img src="https://b.radikal.ru/b15/2105/42/57a6527b2e55t.jpg" style="float: left; display: block; padding-right:20px"/>
 <p>
 Lena Petrova is a Russian-born contemporary dancer and performer, model, martial artist and dance teacher currently living in Berlin. 
-
-<br><br>
+</p>
+<p>
 She received her initial training in Saint-Petersburg Sports Dance Federation, and later relocated to Berlin where she now studies art of dance performance at the contemporary dance school "Danceworks Berlin".
-
-<br><br>
-
+</p>
+<p>
 Her main focus of work is a body research and exploration. Having personal history with domestic violence and abuse, she asks herself questions on how psychological and emotional blocks and fears can be overcame with body movement, and what it means to feel "safe" in one's body.
 </p>
 
