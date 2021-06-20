@@ -1,5 +1,11 @@
+---
+layout: page
+category: dancer
+permalink: /dancer
+---
 
-<!-- {% for post in site.posts %}
+{% assign category = page.category | default: page.category %}
+{% for post in site.categories[category] %}
     {% cycle 'add row' : '<div class="row">', '', '' %}
         <div class="column column-33">
             <div class="preview-panel">
@@ -7,8 +13,11 @@
                     <img src="{{ post.preview }}">
                 </a>
                 <div class="post-title">{{ post.title }}</div>
-           </div>
+        </div>
         </div>
 {% cycle 'end row' : '', '', '</div>' %}
 {% endfor %}
-{% cycle 'end row' : '', '</div>', '</div>' %} -->
+{% cycle 'end row' : '', '</div>', '</div>' %}
+
+<br>
+<p><i>CV with the detailed description of formative trainings and work experiences is available on demand.</i></p>

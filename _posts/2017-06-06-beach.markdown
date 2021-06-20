@@ -2,6 +2,7 @@
 layout: post
 title:  "BEACH CHRONICS"
 preview: https://a.radikal.ru/a39/2104/c6/2bab0d347fe1t.jpg
+category: model
 ---
 2017 - Bordeaux
 

@@ -2,6 +2,8 @@
 layout: post
 title:  "GRAND BASSIN"
 preview: https://d.radikal.ru/d05/2105/68/2e5eafe47fac.jpg
+category: model
+
 ---
 2021 - Berlin
 

@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "VIDEO:ENTANGLED"
+title:  "ENTANGLED"
 preview: https://c.radikal.ru/c34/2103/3b/fad1bb2c0678.png
+category: dancer
+
 ---
 2020 - Berlin
 

@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "U SO TENDER"
+title:  "TENDER"
 preview: https://b.radikal.ru/b37/2104/1a/42bcc2999774t.jpg
+category: model
+
 ---
 2021 - Berlin
 

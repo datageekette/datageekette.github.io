@@ -2,6 +2,8 @@
 layout: post
 title:  "JH JEWERLY"
 preview: https://b.radikal.ru/b40/2105/36/1c4801cc9a4et.jpg
+category: model
+
 ---
 2019 - Berlin
 
