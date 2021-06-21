@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "JH JEWERLY"
-preview: https://b.radikal.ru/b40/2105/36/1c4801cc9a4et.jpg
+preview: https://b.radikal.ru/b34/2106/b9/3968b7eb19f8t.jpg
 category: model
 
 ---
