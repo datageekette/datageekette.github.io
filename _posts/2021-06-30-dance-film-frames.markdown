@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DANCE FILM"
-preview: https://c.radikal.ru/c23/2106/5c/a9ae2d41d9e5t.jpg
+preview: https://c.radikal.ru/c14/2106/57/b5b02e18be7et.jpg
 category: model
 
 ---
