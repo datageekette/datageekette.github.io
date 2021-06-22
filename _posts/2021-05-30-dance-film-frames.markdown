@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "DANCE FILM"
+title:  "SPACIOUS"
 preview: https://c.radikal.ru/c14/2106/57/b5b02e18be7et.jpg
-category: model
+category: dancer
 
 ---
 2021 - Berlin
 
-Artistic collaboration with [Natasha Yakupoff](https://www.instagram.com/natashayakupoff/) for a dance film "SPACIOUS".
+Artistic collaboration with [Natasha Yakupoff](https://www.instagram.com/natashayakupoff/) for the dance film "SPACIOUS".
 
 <img src="https://a.radikal.ru/a39/2106/fd/a71d09776b6b.png">
 
