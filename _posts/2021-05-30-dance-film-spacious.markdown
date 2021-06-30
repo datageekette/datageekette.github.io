@@ -9,7 +9,7 @@ category: dancer
 
 Artistic collaboration with [Natasha Yakupoff](https://www.instagram.com/natashayakupoff/). 
 
-The dance film "S P A C I O U S". Version #1 - a collection of short stories around the character: what she was, is now and becoming. The the final narrative is yet to be developed.
+The dance film "S P A C I O U S". Version #1 - a collection of short stories around the character: what she was, is now, and becoming. The final narrative is yet to be developed.
 
 <img src="https://a.radikal.ru/a39/2106/fd/a71d09776b6b.png">
 
