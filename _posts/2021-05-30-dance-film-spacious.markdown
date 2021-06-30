@@ -7,14 +7,18 @@ category: dancer
 ---
 2021 - Berlin
 
-Artistic collaboration with [Natasha Yakupoff](https://www.instagram.com/natashayakupoff/) for the dance film "S P A C I O U S".
+Artistic collaboration with [Natasha Yakupoff](https://www.instagram.com/natashayakupoff/). 
+
+The dance film "S P A C I O U S". Version #1 - a collection of short stories around the character: what she was, is now and becoming. The the final narrative is yet to be developed.
 
 <img src="https://a.radikal.ru/a39/2106/fd/a71d09776b6b.png">
 
-From the scenario draft:
+Excerpt:
 <blockquote>
 We do not fully see her face - she is yet to be discovered. We follow her movement through space, her gaze. She is moving with soft determination ... she starts interacting with her surroundings, cutting through the lines. It feels spacious. We now see her.
 </blockquote>
+
+
 
 ## frames
 
