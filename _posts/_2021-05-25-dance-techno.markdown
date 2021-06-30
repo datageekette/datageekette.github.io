@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TECHNO"
+title:  "holder"
 preview: https://c.radikal.ru/c23/2106/20/3a6dfe2e1e58t.jpg
 category: dancer
 
