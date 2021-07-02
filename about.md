@@ -3,8 +3,10 @@ layout: page
 # title: about
 permalink: /about
 ---
-<img src="https://a.radikal.ru/a04/2106/61/c23686c604f6t.jpg" style="float: left; display: block; width: 300px; padding-right:20px; padding-bottom:10px"/>
+<!-- https://a.radikal.ru/a04/2106/61/c23686c604f6t.jpg -->
+<img src="https://c.radikal.ru/c01/2107/a4/f770a0e535d5t.jpg" style="float: left; display: block; width: 300px; padding-right:20px; padding-bottom:10px"/>
 <p>
+
 Lena Petrova is a Russian-born contemporary dancer, performer, model and dance teacher currently living in Berlin.
 </p>
 
